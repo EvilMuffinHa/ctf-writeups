@@ -36,7 +36,7 @@ for x in range (0, a):
 dec = Image.fromarray(img)
 dec.save('decrypt.png')
 ```
-This reveals a message in the image:
+This reveals a message in the image:  
 ![Image of Decrypted picture](decrypt.png)
 
 ---
