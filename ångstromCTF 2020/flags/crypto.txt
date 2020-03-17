@@ -1,0 +1,5 @@
+Keysar: actf{yum_delicious_salad}
+Reasonably Secure Algorithm: actf{10minutes}
+Wacko-Images: actf{m0dd1ng_sk1llz}
+One Time Bad: actf{one_time_pad_more_like_i_dont_like_crypto-1982309}
+Discrete Superlog: actf{lets_stick_to_discrete_log_for_now...}

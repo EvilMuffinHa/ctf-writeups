@@ -1,0 +1,2 @@
+We define a^^b to be such that a^^0 = 1 and a^^b = a^(a^^(b-1)), where x^y represents x to the power of y.
+Given this, find a positive integer x such that a^^x = b mod p.

@@ -1,0 +1,19 @@
+w = U R2 F2 R2 D L2 B2 D' F2 D U2 L' R2 U B U F' L2 F R'
+w' = U D2 L2 F' R U L F2 B2 U2 D L U2 B2 D2 B2 D' R2 U' B2
+
+a'wa = B2 D2 U' R2 D U2 B2 L R2 D' U2 L D L2 B L' U L R'
+b'wb = L2 U L2 R2 U F2 D2 F2 R2 U R' U' L' B L2 R D B2 F' R'
+
+(w'a'wa)' = R' U' R2 B' L2 D' R U2 D' F D L2 U' R2 D F2 D' F2 B2 D
+w'a'wa = U2 F R2 U D' R2 F' U' D F U2 R2 U' L2 B2 D R2 D L2 U2
+
+(w'b'wb)' = U2 F2 L' U R' B' L2 B2 D' L' F R2 F2 D R2 L2 F2 U' F2 D
+w'b'wb = U' D B' U' D F' B D2 R L' B U R2 F2 R2 D F2 B2 R2 B2
+
+a'b'wba = KEY
+
+w'a'wwa
+w'(ww)^a
+w'w^aw^a
+
+

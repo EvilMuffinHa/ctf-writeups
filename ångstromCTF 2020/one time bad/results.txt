@@ -1,0 +1,12 @@
+Welcome to my one time pad service!
+It's so unbreakable that *if* you do manage to decrypt my text, I'll give you a flag!
+You will be given the ciphertext and key for samples, and the ciphertext for when you try to decrypt. All will be given in base 64, but when you enter your answer, give it in ASCII.
+Enter:
+	1) Request sample
+	2) Try your luck at decrypting something!
+> Hgc=
+Your answer: Wrong! The correct answer was ke with key ub
+> Traceback (most recent call last):
+  File "ctf/server.py", line 30, in <module>
+    choice = int(input("> "))
+EOFError: EOF when reading a line
