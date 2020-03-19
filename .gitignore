@@ -2,14 +2,24 @@
 passwords/
 
 # Other than crypto
- **/other
- **/flags
+**/other
+**/flags
+
+# Notes/Unsolved
+**/unsolved.txt
+**/notes.txt
 
 # Pycharm files
 .idea/
 
 # Mac files
 .DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+#Accidental init files
+**/__init__.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -12,8 +12,5 @@ w'b'wb = U' D B' U' D F' B D2 R L' B U R2 F2 R2 D F2 B2 R2 B2
 
 a'b'wba = KEY
 
-w'a'wwa
-w'(ww)^a
-w'w^aw^a
 
 

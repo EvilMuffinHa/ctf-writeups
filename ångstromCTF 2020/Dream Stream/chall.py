@@ -40,3 +40,5 @@ else:
 	for i in flag:
 		ret += str(next(k)^int(i))
 	print(ret)
+
+# nc crypto.2020.chall.actf.co 20602
