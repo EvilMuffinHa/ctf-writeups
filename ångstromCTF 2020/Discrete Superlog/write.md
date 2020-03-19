@@ -1,7 +1,7 @@
 # ångstromCTF
 ## 2020
 ### Discrete Superlog
-
+###### [Back](../write.md)
 
 Challenge:
 ```

@@ -1,6 +1,7 @@
 # ångstromCTF
 ## 2020
 ### Reasonably Secure Algorithm
+###### [Back](../write.md)
 
 It looks like a simple RSA challenge. Using [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool),
 and writing a script,

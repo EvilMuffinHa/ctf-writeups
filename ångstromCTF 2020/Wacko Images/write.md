@@ -1,6 +1,8 @@
 # ångstromCTF
 ## 2020
 ### Wacko Images
+###### [Back](../write.md)
+
 The challenge includes a [source](chall.py) and an image.  
 
 ![Challenge Image](chall.png)
