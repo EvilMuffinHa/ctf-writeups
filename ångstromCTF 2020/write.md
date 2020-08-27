@@ -10,5 +10,4 @@ Name | Points
 [one time bad](one%20time%20bad/write.md) | 100 
 [Discrete Superlog](Discrete%20Superlog/write.md) | 130 
 [Dream Stream](Dream%20Stream/write.md) | 170 
-[RSA-OTP](RSA-OTP/write.md) | 210 
 [Lo-Kee](Lo-Kee/write.md) | 230 

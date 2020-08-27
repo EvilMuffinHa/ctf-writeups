@@ -1,4 +1,0 @@
-#!/bin/bash
-
-./RsaCtfTool/RsaCtfTool.py --createpub -n 126390312099294739294606157407778835887 -e > pubkey.pub
-./RsaCtfTool/RsaCtfTool.py --publickey ./pubkey.pub --verbose --uncipher 13612260682947644362892911986815626931
